@@ -64,50 +64,7 @@ Multi-ecosystem resolution (PyPI, crates.io, pkg.go.dev)
 Automated synthetic test suite generation
 
 GitHub Actions CI scanner for pull requests
-🤝 Contributing
+### 🤝 Contributing
 Contributions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request.
-📄 License
+### 📄 License
 This project is licensed under the MIT License.
-Code
-4. Click the green **Commit changes...** button at the top right.
-5. Select *"Commit directly to the `main` branch"* and click **Commit changes**.
-
----
-
-### Step 3: Polish the "About" Section and Tags
-
-GitHub tags help reviewers index what your project does at a glance:
-
-1. Go back to the **main page** of `HarshaBethireddy/LibDetective`.
-2. On the right-hand sidebar, find the **About** header and click the **gear icon (⚙️)**.
-3. Update the fields:
-   * **Description:**
-     ```text
-     Fast static analysis and AI-driven dependency discovery tool for source code snippets and legacy repositories.
-     ```
-   * **Topics (type each and press Enter):**
-     * `golang`
-     * `static-analysis`
-     * `ast`
-     * `developer-tools`
-     * `code-analysis`
-     * `dependency-scanner`
-     * `open-source`
-4. Click **Save changes**.
-
----
-
-### Step 4: Verify Your Primary GitHub Email
-
-Anthropic matches your application with your GitHub account:
-
-1. Open [GitHub Email Settings](https://github.com/settings/emails).
-2. Check which email is set as your **Primary** verified email.
-3. Make sure you use **that exact email address** in the **Email\*** field of the Claude application form.
-
----
-
-### What this accomplishes:
-* Adds an **OSI-approved license (MIT)** (mandatory program requirement).
-* Generates **fresh public commits** within the 90-day activity window.
-* Presents an **architected, active developer tool** that justifies discretionary approval under Anthropic's Ecosystem Impact Track.
