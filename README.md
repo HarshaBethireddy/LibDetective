@@ -43,8 +43,9 @@ go mod tidy
 
 # Build binary
 go build -o libdetective main.go
+```
 
-Usage
+# Usage
 Run LibDetective against any code file or directory:
 Bash
 # Analyze a specific source file
